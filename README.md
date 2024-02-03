@@ -1,2 +1,2 @@
-# ms-payments
-Microsserviços de pagamentos autenticados
+# API-Payments
+API de pagamentos autenticados
